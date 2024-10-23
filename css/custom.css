@@ -126,9 +126,9 @@ a:hover {
       .work .work-list li a:hover {
         border-bottom: 1px solid #333333; }
 
-.award .award-list {
+.education .education-list {
   margin-left: 0px; }
-  .award .award-list li:first-child {
+  .education .education-list li:first-child {
     font-size: 0.9375em;
     color: #8c8c8c; }
 

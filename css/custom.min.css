@@ -194,13 +194,16 @@
     border-bottom: 1px solid #333;
   }
   
-  .award .award-list {
+  .education .education-list {
     margin-left: 0px;
   }
   
-  .award .award-list li:first-child {
-    font-size: 0.9375em;
-    color: #8c8c8c;
+  .education .education-list li a:hover {
+    padding-bottom: 5px;
+    font-size: 1.1875em;
+    font-weight: 700;
+    text-decoration: none;
+    border-bottom: 1px solid #b3b3b3;
   }
   
   .skills .skill-list {
